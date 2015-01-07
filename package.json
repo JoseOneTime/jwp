@@ -1,0 +1,26 @@
+{
+  "name": "jwp",
+  "version": "0.0.0",
+  "description": "jwp",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JoseOneTime/jwp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseOneTime/jwp/issues"
+  },
+  "homepage": "https://github.com/JoseOneTime/jwp",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "jasmine-node": "^1.14.5"
+  },
+  "devDependencies": {
+    "jasmine": "^2.1.1"
+  }
+}
